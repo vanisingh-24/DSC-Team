@@ -4,7 +4,6 @@ function fLoad(){
   preloader.style.display = 'none';
 }
 
-//
 function openNav() {
 
   if(document.getElementById('mobile__menu').className=="overlay"){
